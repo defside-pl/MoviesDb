@@ -1,5 +1,5 @@
 # MoviesDb
-Movie Catalog
+Movie Catalog (Laravel framework)
 ---------------------------------
 My code in:
 <pre>
