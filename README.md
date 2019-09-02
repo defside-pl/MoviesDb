@@ -1,6 +1,10 @@
 # MoviesDb
 Movie Catalog (Laravel framework)
 ---------------------------------
+
+<b>Video demonstration:</b>
+https://drive.google.com/file/d/1odVBdPn24qQoCwJDN9nG2304ZZNiSoz2/view
+
 My code in:
 <pre>
 resources\views\welcome.blade.php
@@ -13,8 +17,7 @@ routes\web.php
 </pre>
 
 ----------------------------------
-<b>Video demonstration:</b>
-https://drive.google.com/file/d/1odVBdPn24qQoCwJDN9nG2304ZZNiSoz2/view
+
 
 
 
