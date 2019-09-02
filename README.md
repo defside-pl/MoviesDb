@@ -13,7 +13,7 @@ routes\web.php
 </pre>
 
 ----------------------------------
-Video demonstration:
+<b>Video demonstration:</b>
 https://drive.google.com/file/d/1odVBdPn24qQoCwJDN9nG2304ZZNiSoz2/view
 
 
